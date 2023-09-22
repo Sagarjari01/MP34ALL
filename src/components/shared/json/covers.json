@@ -1,0 +1,51 @@
+[
+    {
+        "id":1,
+        "img":"https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebb19af0ea736c6228d6eb539c/1/en/default",
+        "title": "Daily Mix 1",
+        "description":"A.R. Rahman, Pritam, Mitraz and more"
+    },
+    {
+        "id":2,
+        "img":"https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb114583feb331ad4c0548590a/2/en/default",
+        "title": "Daily Mix 2",
+        "description":"Mitraz, Anirudh Ravichander, Shubh and more"
+    },
+    {
+        "id":3,
+        "img":"https://dailymix-images.scdn.co/v2/img/ab6761610000e5eba837a6cb82dd949d5e1f9b53/3/en/default",
+        "title": "Daily Mix 3",
+        "description":"Anuv Jain, Ami Mishra, KASYAP and more"
+    },
+    {
+        "id":4,
+        "img":"https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb6eebcf728243db21f78f0030/4/en/default",
+        "title": "Daily Mix 4",
+        "description":"Paradox, Vilen, KR$NA and more"
+    },
+    {
+        "id":5,
+        "img":"https://i.scdn.co/image/ab67706f000000025657daa09c838f52be189545",
+        "title": "Hot Hits Punjabi",
+        "description":"Catch the hottest Punjabi tracks with Karan Aujla on the cover for his album \"Making Memories\""
+    },
+    {
+        "id":6,
+        "img":"https://i.scdn.co/image/ab67706f00000002975118eef110cf76bc26137d",
+        "title": "Hot Hits Hindi",
+        "description":"Hottest Hindi music served here."
+    },
+    {
+        "id":7,
+        "img":"https://i.scdn.co/image/ab67706f00000002bb356f4951404ce7362ab02c",
+        "title": "Bollywood Butter",
+        "description":"B bole toh biggest blockbusters, right here! Koi Shaq? 😎 Cover - Rocky Aur Rani Kii Prem Kahaani"
+    },
+    {
+        "id":8,
+        "img":"https://i.scdn.co/image/ab67706f00000002a11e0756ea85746dc69f258a",
+        "title": "Punjabi X",
+        "description":"Catch all the collaborations and crossovers in Punjabi music. Cover: Guru Randhawa "
+    }
+]
+
